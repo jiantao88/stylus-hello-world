@@ -1,0 +1,10 @@
+/Users/zhangjiantao/Documents/web3/hello-cargo-style/target/debug/deps/libcoins_core-e4fbda8f8a27b3b4.rmeta: /Users/zhangjiantao/.cargo/registry/src/index.crates.io-6f17d22bba15001f/coins-core-0.8.7/src/lib.rs /Users/zhangjiantao/.cargo/registry/src/index.crates.io-6f17d22bba15001f/coins-core-0.8.7/src/macros.rs /Users/zhangjiantao/.cargo/registry/src/index.crates.io-6f17d22bba15001f/coins-core-0.8.7/src/enc.rs /Users/zhangjiantao/.cargo/registry/src/index.crates.io-6f17d22bba15001f/coins-core-0.8.7/src/hashes.rs /Users/zhangjiantao/.cargo/registry/src/index.crates.io-6f17d22bba15001f/coins-core-0.8.7/src/prelude.rs /Users/zhangjiantao/.cargo/registry/src/index.crates.io-6f17d22bba15001f/coins-core-0.8.7/src/ser.rs
+
+/Users/zhangjiantao/Documents/web3/hello-cargo-style/target/debug/deps/coins_core-e4fbda8f8a27b3b4.d: /Users/zhangjiantao/.cargo/registry/src/index.crates.io-6f17d22bba15001f/coins-core-0.8.7/src/lib.rs /Users/zhangjiantao/.cargo/registry/src/index.crates.io-6f17d22bba15001f/coins-core-0.8.7/src/macros.rs /Users/zhangjiantao/.cargo/registry/src/index.crates.io-6f17d22bba15001f/coins-core-0.8.7/src/enc.rs /Users/zhangjiantao/.cargo/registry/src/index.crates.io-6f17d22bba15001f/coins-core-0.8.7/src/hashes.rs /Users/zhangjiantao/.cargo/registry/src/index.crates.io-6f17d22bba15001f/coins-core-0.8.7/src/prelude.rs /Users/zhangjiantao/.cargo/registry/src/index.crates.io-6f17d22bba15001f/coins-core-0.8.7/src/ser.rs
+
+/Users/zhangjiantao/.cargo/registry/src/index.crates.io-6f17d22bba15001f/coins-core-0.8.7/src/lib.rs:
+/Users/zhangjiantao/.cargo/registry/src/index.crates.io-6f17d22bba15001f/coins-core-0.8.7/src/macros.rs:
+/Users/zhangjiantao/.cargo/registry/src/index.crates.io-6f17d22bba15001f/coins-core-0.8.7/src/enc.rs:
+/Users/zhangjiantao/.cargo/registry/src/index.crates.io-6f17d22bba15001f/coins-core-0.8.7/src/hashes.rs:
+/Users/zhangjiantao/.cargo/registry/src/index.crates.io-6f17d22bba15001f/coins-core-0.8.7/src/prelude.rs:
+/Users/zhangjiantao/.cargo/registry/src/index.crates.io-6f17d22bba15001f/coins-core-0.8.7/src/ser.rs:

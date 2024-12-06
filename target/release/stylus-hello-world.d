@@ -1,0 +1,1 @@
+/Users/zhangjiantao/Documents/web3/hello-cargo-style/target/release/stylus-hello-world: /Users/zhangjiantao/Documents/web3/hello-cargo-style/src/lib.rs /Users/zhangjiantao/Documents/web3/hello-cargo-style/src/main.rs

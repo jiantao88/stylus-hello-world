@@ -1,0 +1,11 @@
+/Users/zhangjiantao/Documents/web3/hello-cargo-style/target/debug/deps/libcc-fb57386a4e2a7ec3.rmeta: /Users/zhangjiantao/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cc-1.0.86/src/lib.rs /Users/zhangjiantao/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cc-1.0.86/src/windows/mod.rs /Users/zhangjiantao/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cc-1.0.86/src/windows/find_tools.rs /Users/zhangjiantao/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cc-1.0.86/src/command_helpers.rs /Users/zhangjiantao/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cc-1.0.86/src/tool.rs
+
+/Users/zhangjiantao/Documents/web3/hello-cargo-style/target/debug/deps/libcc-fb57386a4e2a7ec3.rlib: /Users/zhangjiantao/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cc-1.0.86/src/lib.rs /Users/zhangjiantao/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cc-1.0.86/src/windows/mod.rs /Users/zhangjiantao/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cc-1.0.86/src/windows/find_tools.rs /Users/zhangjiantao/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cc-1.0.86/src/command_helpers.rs /Users/zhangjiantao/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cc-1.0.86/src/tool.rs
+
+/Users/zhangjiantao/Documents/web3/hello-cargo-style/target/debug/deps/cc-fb57386a4e2a7ec3.d: /Users/zhangjiantao/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cc-1.0.86/src/lib.rs /Users/zhangjiantao/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cc-1.0.86/src/windows/mod.rs /Users/zhangjiantao/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cc-1.0.86/src/windows/find_tools.rs /Users/zhangjiantao/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cc-1.0.86/src/command_helpers.rs /Users/zhangjiantao/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cc-1.0.86/src/tool.rs
+
+/Users/zhangjiantao/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cc-1.0.86/src/lib.rs:
+/Users/zhangjiantao/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cc-1.0.86/src/windows/mod.rs:
+/Users/zhangjiantao/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cc-1.0.86/src/windows/find_tools.rs:
+/Users/zhangjiantao/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cc-1.0.86/src/command_helpers.rs:
+/Users/zhangjiantao/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cc-1.0.86/src/tool.rs:
